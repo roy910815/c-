@@ -1,5 +1,6 @@
 # 側拍分析
 一個植物側拍的角度計算程式。
+注: modify.py是只有txt檔生成
 
 ![HV050_0209](https://github.com/user-attachments/assets/3e5d83f6-4262-40b2-b962-82645aa5ad08)
 ![HV050_0209_0](https://github.com/user-attachments/assets/1d60e54d-8e3d-4297-a6cc-bfc03700d1f0)
